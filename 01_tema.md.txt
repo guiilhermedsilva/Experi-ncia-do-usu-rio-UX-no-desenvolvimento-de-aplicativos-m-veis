@@ -1,0 +1,66 @@
+01_tema.md
+
+Etapa 1 Tema e delimitação
+Solicitação
+Defina um tema específico, relevante e viável para o artigo de revisão bibliográfica.
+
+Identificação
+Grupo: A confirmar
+
+Integrantes: Guilherme de Oliveira; Alisson Gustavo Fernandes Gonçalves; Diego dos Santos Costa
+
+Data: 22/09/2026
+
+Preenchimento
+Área geral
+Ciência da Computação, com foco em Interação Humano-Computador (IHC), User Experience (UX), usabilidade e desenvolvimento de aplicativos móveis.
+
+Tema delimitado
+A influência dos princípios de experiência do usuário (UX) na usabilidade e na satisfação dos usuários durante o desenvolvimento de aplicativos móveis.
+
+Do tema amplo ao específico
+Tema amplo: Experiência do usuário no desenvolvimento de software.
+
+Objeto estudado: Princípios e práticas de User Experience (UX) aplicados a aplicativos móveis.
+
+Contexto ou aplicação: Desenvolvimento e avaliação de aplicativos para dispositivos móveis.
+
+Aspecto que será analisado: A relação entre práticas de UX, usabilidade e satisfação dos usuários.
+
+O que ficará fora do estudo: Desenvolvimento de um aplicativo próprio, programação da interface, realização de experimentos próprios e análise aprofundada de um único aplicativo.
+
+Justificativa
+A experiência do usuário é um aspecto relevante no desenvolvimento de aplicativos móveis, pois características relacionadas à facilidade de uso, organização da interface, eficiência e satisfação podem influenciar a interação dos usuários com os sistemas. A literatura científica apresenta diferentes métodos, atributos e práticas para avaliar e melhorar a experiência do usuário em aplicações móveis. Estudos de revisão identificam usabilidade, eficiência, satisfação, eficácia, facilidade de uso e outros atributos como temas recorrentes na avaliação de aplicativos móveis. Dessa forma, uma revisão bibliográfica permite reunir e sintetizar conhecimentos sobre como princípios de UX podem contribuir para a usabilidade e a satisfação dos usuários. 
+D
+DOI
++2
+
+Viabilidade
+Há artigos científicos disponíveis? Sim. Há revisões sistemáticas e estudos sobre UX, usabilidade e interfaces de aplicativos móveis disponíveis em bases e periódicos científicos. 
+D
+DOI
++2
+
+O tema pode ser estudado no prazo? Sim. O recorte permite realizar uma revisão bibliográfica sem necessidade de desenvolvimento de software ou pesquisa experimental própria.
+
+O grupo possui acesso às fontes necessárias? A confirmar pelo grupo.
+
+Produto da etapa
+Tema delimitado e justificativa.
+
+Checklist
+ O tema é específico.
+
+ O tema é relevante.
+
+ O tema é viável.
+
+ O recorte está claro.
+
+ O tema foi validado pelo professor.
+
+Contribuições
+Integrante	Atividade realizada
+Guilherme de Oliveira	Definição inicial e organização do tema
+Alisson Gustavo Fernandes Gonçalves	Pesquisa bibliográfica e levantamento de referências
+Diego dos Santos Costa	Delimitação do tema e revisão do recorte
