@@ -17,9 +17,6 @@ Qual é o objeto da pergunta? Princípios e práticas de User Experience aplicad
 Qual é o contexto ou recorte? Aplicativos móveis, considerando estudos científicos relacionados a UX, usabilidade e satisfação dos usuários.
 
 A pergunta pode ser respondida por artigos científicos? Sim. A literatura científica apresenta estudos de revisão, estudos de avaliação de usabilidade e pesquisas sobre fatores associados à experiência do usuário em aplicativos móveis. 
-D
-DOI
-+2
 
 Por que essa pergunta é relevante? Porque permite reunir evidências sobre quais aspectos de UX aparecem associados à usabilidade e à satisfação em aplicativos móveis, contribuindo para uma compreensão mais organizada das práticas discutidas na literatura.
 
