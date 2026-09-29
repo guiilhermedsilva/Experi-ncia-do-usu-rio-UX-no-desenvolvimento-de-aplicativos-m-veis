@@ -31,15 +31,11 @@ O que ficará fora do estudo: Desenvolvimento de um aplicativo próprio, program
 
 Justificativa
 A experiência do usuário é um aspecto relevante no desenvolvimento de aplicativos móveis, pois características relacionadas à facilidade de uso, organização da interface, eficiência e satisfação podem influenciar a interação dos usuários com os sistemas. A literatura científica apresenta diferentes métodos, atributos e práticas para avaliar e melhorar a experiência do usuário em aplicações móveis. Estudos de revisão identificam usabilidade, eficiência, satisfação, eficácia, facilidade de uso e outros atributos como temas recorrentes na avaliação de aplicativos móveis. Dessa forma, uma revisão bibliográfica permite reunir e sintetizar conhecimentos sobre como princípios de UX podem contribuir para a usabilidade e a satisfação dos usuários. 
-D
-DOI
-+2
+
 
 Viabilidade
 Há artigos científicos disponíveis? Sim. Há revisões sistemáticas e estudos sobre UX, usabilidade e interfaces de aplicativos móveis disponíveis em bases e periódicos científicos. 
-D
-DOI
-+2
+
 
 O tema pode ser estudado no prazo? Sim. O recorte permite realizar uma revisão bibliográfica sem necessidade de desenvolvimento de software ou pesquisa experimental própria.
 
